@@ -17,7 +17,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iqbalz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iqbalz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalagil&show_icons=true&locale=en&layout=compact" alt="iqbalagil" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalagil&show_icons=true&locale=en" alt="iqbalagil" /></p>
 
