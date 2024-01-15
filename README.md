@@ -16,7 +16,7 @@
 
 <h3 align="left">Support:</h3><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalagil&show_icons=true&locale=en&layout=compact" alt="iqbalagil" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalagil&show_icons=true&locale=en&layout=compact" alt="iqbalagil" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalagil&show_icons=true&locale=en" alt="iqbalagil" /></p><br>
 
