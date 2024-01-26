@@ -18,8 +18,8 @@
 <p><a href="https://www.buymeacoffee.com/iqbalz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iqbalz" /></a></p>
 
 ### GitHub Stats:
-![GitHub Repos](https://badgen.net/github/repos/YOUR_USERNAME)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
+![GitHub Repos](https://badgen.net/github/repos/iqbalagil)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=iqbalagil&style=flat-square)
 
 [![Holopin Board](https://holopin.io/api/user/board?user=iqbalagil)](https://holopin.io/@iqbalagil)
 
