@@ -1,6 +1,6 @@
 # Hi 👋, I'm Iqbal Agil B.
 
-![Iqbal Agil B. Banner]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/main/YOUR_IMAGE_NAME.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![Iqbal Agil B. Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## I am a Web Developer from Indonesia
 
