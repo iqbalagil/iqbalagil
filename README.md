@@ -18,8 +18,8 @@
 ![GitHub Repos](https://badgen.net/github/repos/YOUR_USERNAME)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
 
-### Holopin Badges:
-![Holopin Badges](YOUR_HOLOPIN_BADGE_CODE_HERE)
+### My Holopin Badge Board:
+[![Holopin Board](https://holopin.io/api/user/board?user=iqbalagil)](https://holopin.io/@iqbalagil)
 
 <details>
   <summary>:zap: More GitHub Stats</summary>
