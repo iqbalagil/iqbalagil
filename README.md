@@ -19,10 +19,9 @@ const iqbalAgil = {
     location: "Malang, East Java, Indonesia",
     role: "Full-Stack Developer",
     experience: "3+ years",
-    currentFocus: ["Web Development", "System Architecture", "DevOps"],
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
+    currentFocus: ["Web Development"],
+    languages: ["JavaScript", "TypeScript"],
+    databases: [ "MongoDB", "MySQL"],
     interests: ["Open Source", "Clean Code", "Performance Optimization"]
 };
 ```
