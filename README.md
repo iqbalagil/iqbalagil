@@ -1,29 +1,62 @@
+<!-- 
+This is a great place for a header image! 
+You can create one using tools like Canva or Figma.
+-->
+<p align="center">
+  <img src="YOUR_HEADER_IMAGE_URL" alt="Header Image" width="800"/>
+</p>
 
-![Iqbal Agil B. Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi there, I'm Iqbal Agil! 👋</h1>
+<p align="center">
+  <em>Full-Stack Developer | Open Source Enthusiast | Lifelong Learner</em>
+</p>
 
-## I am a Web Developer from Indonesia
+I'm a passionate developer based in [Your Location], with a love for creating innovative and efficient solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🌱 I’m currently learning **C#, JS, PHP, and Android Development**
-- 📫 How to reach me: **iqbalagil@gmail.com**
+---
 
-### Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/iqbalagilbramantio)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iqbala7gil.0)
+### 🚀 What I'm Currently Working On
 
-### Languages and Tools:
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+- 🔭 I’m currently building a [Project Name], a tool for [briefly describe the project].
+- 🌱 I’m learning more about [New Technology or Skill, e.g., GraphQL, Rust, or AI].
+- 👯 I’m looking to collaborate on open-source projects related to [Your Interests, e.g., developer tools, educational tech].
+- 🤔 I’m looking for help with [A specific problem or project].
+- 💬 Ask me about anything related to **React, Node.js, and DevOps**.
+- 📫 How to reach me: [Your Email or LinkedIn Profile URL]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [A fun fact about you, e.g., I can solve a Rubik's Cube in under a minute!]
 
-### GitHub Stats:
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=iqbalagil&style=flat-square)
+---
 
-[![Holopin Board](https://holopin.io/api/user/board?user=iqbalagil)](https://holopin.io/@iqbalagil)
+### 🛠️ My Skills
 
-<details>
-  <summary>:zap: More GitHub Stats</summary>
-  <img align="left" alt="Iqbal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iqbalagil&show_icons=true&hide_border=true" />
-</details>
+Here are some of the technologies I work with:
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Iqbal's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalagil&layout=compact&hide_border=true" />
-</details>
+- **Frontend:** `JavaScript` `TypeScript` `React` `Vue` `HTML5` `CSS3` `TailwindCSS`
+- **Backend:** `Node.js` `Express` `Python` `Django` `Ruby on Rails`
+- **Databases:** `PostgreSQL` `MongoDB` `Redis`
+- **DevOps:** `Docker` `Kubernetes` `GitHub Actions` `AWS`
+- **Testing:** `Jest` `Cypress` `React Testing Library`
+- **Tools:** `Git` `Webpack` `Figma` `Jira`
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalagil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Iqbal's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalagil&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+</p>
+
+*Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://your-blog.com" target="_blank"><img src="https://img.shields.io/badge/Blog-YOUR_COLOR?style=for-the-badge&logo=your-logo&logoColor=white" alt="Blog"/></a>
+</p>
