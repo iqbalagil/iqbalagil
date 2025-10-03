@@ -104,9 +104,9 @@ const iqbalAgil = {
 ## 📊 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalagil&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+[![An image of @iqbalagil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iqbalagil)](https://holopin.io/@iqbalagil)
 
 <details>
-[![An image of @iqbalagil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iqbalagil)](https://holopin.io/@iqbalagil)
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
