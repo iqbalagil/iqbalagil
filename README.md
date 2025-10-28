@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=iqbalagil&style=flat-square&color=blue)
   
-  **Full-Stack Developer | Software Engineer | Technology Enthusiast**
+  **Front-End Developer | Software Engineer | Technology Enthusiast**
   
   *Building scalable solutions and contributing to open source communities*
   
