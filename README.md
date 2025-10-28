@@ -17,7 +17,7 @@
 ```javascript
 const iqbalAgil = {
     location: "Malang, East Java, Indonesia",
-    role: "Full-Stack Developer",
+    role: "Front-End Developer",
     experience: "3+ years",
     currentFocus: ["Web Development"],
     languages: ["JavaScript", "TypeScript"],
